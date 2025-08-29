@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinanceSelectPopup</string>
+
+    <string-array name="bank_list_Data">
+        <item>국민은행|001</item>
+        <item>신한은행|002</item>
+        <item>우리은행|003</item>
+        <item>하나은행|004</item>
+        <item>기업은행|005</item>
+        <item>산업은행|006</item>
+        <item>제주은행|007</item>
+        <item>경남은행|008</item>
+        <item>광주은행|009</item>
+        <item>대구은행|010</item>
+    </string-array>
+
+    <string-array name="stock_list_Data">
+        <item>키움증권|100</item>
+        <item>미래에셋증권|200</item>
+        <item>KB증권|300</item>
+        <item>대신증권|400</item>
+        <item>삼성증권|500</item>
+        <item>신영증권|600</item>
+        <item>유안타증권|700</item>
+        <item>교보증권|800</item>
+        <item>신한투자증권|900</item>
+        <item>유진투자증권|910</item>
+    </string-array>
+</resources>
